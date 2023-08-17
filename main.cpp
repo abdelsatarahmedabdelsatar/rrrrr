@@ -53,9 +53,9 @@ string TEST_EQ(int expected, int actual, string testCase){
 string TEST_STRING(int eee, int actual, string testCase){
 
      if(eee == actual)
-        return testCase + " ======> accepted";
+        return testCase + " ======> accepted jjjjjjjj";
         else
-        return testCase + " ======> rejected";
+        return testCase + " ======> rejected ffffffff";
 
 }
 
